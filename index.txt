@@ -1,5 +1,5 @@
 git status
-git add
+git add index.txt git commit -m "Atualizar H1 em main para VERSIONAMENTO" git push origin main
 git commit- m"Resolver conflito de mesclagem"
 git push
 git checkout
@@ -8,9 +8,10 @@ git pull
 git remote
 
 <HTML>
-<HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
+<H1> VERSIONAMENTO </H1><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
 <H1> VERSIONAMENTO </H1>
 </BODY>
 </HTML>
 <H1> GIT </H1
+git checkout feature1
