@@ -1,6 +1,6 @@
 git status
 git add
-git commit
+git commit- m"Resolver conflito de mesclagem"
 git push
 git checkout
 git merge
@@ -10,6 +10,6 @@ git remote
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-<H1> TÍTULO1 </H1>
+<H1> VERSIONAMENTO </H1>
 </BODY>
 </HTML>
