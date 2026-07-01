@@ -1,25 +1,52 @@
-git status 
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSÃO</TITLE></HEAD> <BODY> <H1> GIT </H1> </BODY> </HTML> EOF
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD> <BODY> <H1> VERSIONAMENTO </H1> </BODY> </HTML> EOF
-git add
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSÃO</TITLE></HEAD> <BODY> <H1> GIT </H1> </BODY> </HTML> EOF
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSÃO</TITLE></HEAD> <BODY> <H1> GIT </H1> </BODY> </HTML> EOF
-git commit- m"Resolver conflito de mesclagem"
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD> <BODY> <H1> VERSIONAMENTO </H1> </BODY> </HTML> EOF
-git push
-git checkout
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD> <BODY> <H1> VERSIONAMENTO </H1> </BODY> </HTML> EOF
-git merge
-git pull
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD> <BODY> <H1> VERSIONAMENTO </H1> </BODY> </HTML> EOF
-git remote
-<HTML> <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD> <BODY> <H1> VERSIONAMENTO </H1> </BODY> </HTML> EOF
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>ATIVIDADE DE VERSIONAMENTO</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+        }
+        h1 {
+            color: #333;
+            border-bottom: 3px solid #007bff;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            margin-top: 20px;
+        }
+        ul {
+            background-color: white;
+            padding: 20px 40px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        li {
+            margin: 10px 0;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>GIT - VERSIONAMENTO</h1>
+    <p>Atividade de aprendizado sobre controle de versão com Git</p>
+    
+    <h2>Comandos Git Principais:</h2>
+    <ul>
+        <li><strong>git status</strong> - Verifica o status do repositório e mostra arquivos modificados</li>
+        <li><strong>git add</strong> - Adiciona arquivos para a área de staging (preparação para commit)</li>
+        <li><strong>git commit -m "mensagem"</strong> - Cria um commit com as mudanças e uma mensagem descritiva</li>
+        <li><strong>git push</strong> - Envia commits para o repositório remoto</li>
+        <li><strong>git pull</strong> - Baixa atualizações do repositório remoto</li>
+        <li><strong>git merge</strong> - Mescla branches (ramificações) do projeto</li>
+        <li><strong>git checkout</strong> - Muda de branch ou restaura arquivos</li>
+        <li><strong>git remote</strong> - Gerencia conexões com repositórios remotos</li>
+    </ul>
 
-<HTML>
-<H1> VERSIONAMENTO </H1><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
-<BODY>
-<H1> VERSIONAMENTO </H1>
-</BODY>
-</HTML>
-<H1> GIT </H1
-
+    <h2>O que é Versionamento?</h2>
+    <p>Versionamento é o processo de controlar e registrar todas as mudanças feitas em um projeto ao longo do tempo, permitindo que você volte a versões anteriores se necessário.</p>
+</body>
+</html>
